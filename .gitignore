@@ -1,0 +1,21 @@
+*.private
+
+*.egg-info
+dist/
+build/
+
+.Python
+
+bin/
+lib/
+include/
+.python-version
+
+# IDEs
+.idea/
+
+*.db
+*.sql
+.DS_Store
+*.log
+__pycache__/
